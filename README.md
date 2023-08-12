@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Lawrence!
+> _a Web Developer_
+
+🌱 I’m currently learning: ReactJS and CSS Frameworks!
 
 <!--
 **rrrrence/rrrrence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
